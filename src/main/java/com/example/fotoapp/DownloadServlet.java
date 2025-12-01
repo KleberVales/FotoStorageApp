@@ -1,4 +1,4 @@
-package com.example;
+package com.example.fotoapp;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
